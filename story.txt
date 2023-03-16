@@ -1,1 +1,1 @@
-some random text
+This is the basic version of my app!
